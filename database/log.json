@@ -10,7 +10,7 @@
   },
   "designation": {
     "type": "string",
-    "default": "Une description de base"
+    "default": null
   },
   "createAt": {
     "type": "datetime",
