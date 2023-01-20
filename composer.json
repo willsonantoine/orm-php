@@ -1,5 +1,13 @@
 {
-  "require": {
-    "ext-pdo": "*"
-  }
+    "name": "vulembere/orm",
+    "description": "Une biblioth\u0000que de code qui facilite la cr\u0000ation et la modification des tables dans une base de donn\u0000es #mysql avec #PHP",
+    "type": "n",
+    "license": "n",
+    "authors": [
+        {
+            "name": "vulembere",
+            "email": "willsonantoine@gmail.com"
+        }
+    ],
+    "require": {}
 }

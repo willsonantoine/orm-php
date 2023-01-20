@@ -1,7 +1,6 @@
 # orm-php
 Une bibliothèque de code qui facilite la création et la modification des tables dans une base de données #mysql avec #PHP
 <strong>Modele d'une table en format JSON</strong>
-![myimage-alt-tag](code.png =250x250) 
 
 <h3>Le fichier de configuration de la base des données</h3>
 <h3>orm-php/config/init.json</h5>
