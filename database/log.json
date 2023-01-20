@@ -1,0 +1,19 @@
+{
+  "id": {
+    "type": "string",
+    "isPrimary": "true",
+    "default": null
+  },
+  "name": {
+    "type": "string",
+    "default": null
+  },
+  "designation": {
+    "type": "string",
+    "default": "Une description de base"
+  },
+  "createAt": {
+    "type": "datetime",
+    "default": "CURRENT_TIMESTAMP"
+  }
+}

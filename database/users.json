@@ -1,0 +1,19 @@
+{
+  "id": {
+    "type": "STRING",
+    "isPrimary": "true",
+    "default": null
+  },
+  "name": {
+    "type": "STRING",
+    "default": null
+  },
+  "createAt": {
+    "type": "DATETIME",
+    "default": "CURRENT_TIMESTAMP"
+  },
+  "updateAt": {
+    "type": "DATETIME",
+    "default": "CURRENT_TIMESTAMP"
+  }
+}
