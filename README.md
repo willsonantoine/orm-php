@@ -25,7 +25,5 @@ Une bibliothèque de code qui facilite la création et la modification des table
 <h3>./database/log.json</h5>
 <h4>Exemple</h4>
  
- <p align="center">
-  <img src="[your_relative_path_here](https://github.com/willsonantoine/orm-php/blob/main/table.png)" width="350" title="hover text"> 
-</p>
-
+<img src="[relative/path/in/repository/to/image.svg](https://github.com/willsonantoine/orm-php/blob/b22b1e34423c4c34b977fada12b1f34b34b66038/table.png)" width="128"/>
+ 
